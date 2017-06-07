@@ -1,0 +1,65 @@
+<?xml version="1.0" ?> 
+  <employee id=1>
+    <firstname>Andi</firstname>
+    <lastname>Homo</lastname>
+    <department>Egal</department>
+    <hiredate>16.08.2000</hiredate>
+
+    <children>
+        <child id=1>
+          <firstname>Amk</firstname>
+          <lastname>Homo</lastname>
+          <birthdate>19.6.2010</birthdate>
+        </child>
+        <child id=2>
+          <firstname>Chantal</firstname>
+          <lastname>Homo</lastname>
+          <birthdate>20.4.2009</birthdate>
+        </child>
+        <child id=3>
+          <firstname>Kevin</firstname>
+          <lastname>Homo</lastname>
+          <birthdate>17.3.2005</birthdate>
+        </child>
+    </children>
+  </employee>
+
+  <employee id=2>
+    <firstname>Rene</firstname>
+    <lastname>Rodrigez</lastname>
+    <department>SW-Engineering</department>
+    <hiredate>5.4.2004</hiredate>
+
+    <children>
+        <child id=5>
+          <firstname>Laura</firstname>
+          <lastname>Kizmueller</lastname>
+          <birthdate>7.6.2014</birthdate>
+        </child>
+        <child id=6>
+          <firstname>Andre</firstname>
+          <lastname>Kizmueller</lastname>
+          <birthdate>03.10.1996</birthdate>
+        </child>
+    </children>
+  </employee>
+
+  <employee id=3>
+    <firstname>Sasa</firstname>
+    <lastname>Gaymiller</lastname>
+    <department>Facilityservice</department>
+    <hiredate>14.5.1999</hiredate>
+
+    <children>
+        <child id=7>
+          <firstname>Kevin</firstname>
+          <lastname>Gaymiller</lastname>
+          <birthdate>8.8.1988</birthdate>
+        </child>
+        <child id=8>
+          <firstname>Marko</firstname>
+          <lastname>Gaymiller</lastname>
+          <birthdate>15.6.2001</birthdate>
+        </child>
+    </children>
+  </employee>
